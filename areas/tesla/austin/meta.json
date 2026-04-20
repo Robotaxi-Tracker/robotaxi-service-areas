@@ -1,0 +1,10 @@
+{
+  "provider": "tesla",
+  "slug": "austin",
+  "name": "Austin",
+  "centerLat": 30.2625,
+  "centerLng": -97.7469,
+  "defaultZoom": 9.9,
+  "isTestRegion": false,
+  "aliases": []
+}

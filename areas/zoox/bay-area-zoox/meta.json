@@ -1,0 +1,10 @@
+{
+  "provider": "zoox",
+  "slug": "bay-area-zoox",
+  "name": "Bay Area",
+  "centerLat": 37.76568,
+  "centerLng": -122.41006,
+  "defaultZoom": 13,
+  "isTestRegion": false,
+  "aliases": []
+}

@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "nashville",
+  "name": "Nashville",
+  "centerLat": 36.17583998532807,
+  "centerLng": -86.76828145980836,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}

@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "san-antonio",
+  "name": "San Antonio",
+  "centerLat": 29.463860963977318,
+  "centerLng": -98.47510457038881,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}

@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "miami",
+  "name": "Miami",
+  "centerLat": 25.81280572537723,
+  "centerLng": -80.22100925445558,
+  "defaultZoom": 10,
+  "isTestRegion": false,
+  "aliases": []
+}
