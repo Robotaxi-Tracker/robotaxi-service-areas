@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "los-angeles",
+  "name": "Los Angeles",
+  "centerLat": 34.02,
+  "centerLng": -118.35,
+  "defaultZoom": 10,
+  "isTestRegion": false,
+  "aliases": []
+}

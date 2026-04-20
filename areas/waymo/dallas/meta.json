@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "dallas",
+  "name": "Dallas",
+  "centerLat": 32.80023652689988,
+  "centerLng": -96.80156707763672,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}

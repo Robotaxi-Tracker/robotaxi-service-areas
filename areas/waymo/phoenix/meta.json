@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "phoenix",
+  "name": "Phoenix",
+  "centerLat": 33.45,
+  "centerLng": -111.97,
+  "defaultZoom": 10,
+  "isTestRegion": false,
+  "aliases": []
+}

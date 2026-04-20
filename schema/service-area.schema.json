@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["provider", "slug", "name"],
+  "properties": {
+    "provider": {
+      "enum": ["tesla", "waymo", "zoox"]
+    },
+    "slug": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "centerLat": {
+      "type": ["number", "null"]
+    },
+    "centerLng": {
+      "type": ["number", "null"]
+    },
+    "defaultZoom": {
+      "type": ["number", "null"]
+    },
+    "isTestRegion": {
+      "type": "boolean"
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": true
+}

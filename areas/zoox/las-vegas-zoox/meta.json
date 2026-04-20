@@ -1,0 +1,10 @@
+{
+  "provider": "zoox",
+  "slug": "las-vegas-zoox",
+  "name": "Las Vegas",
+  "centerLat": 36.10735,
+  "centerLng": -115.2,
+  "defaultZoom": 12,
+  "isTestRegion": false,
+  "aliases": []
+}

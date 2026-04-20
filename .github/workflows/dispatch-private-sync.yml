@@ -1,0 +1,27 @@
+name: Dispatch Private Sync
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'areas/**'
+      - 'dist/service-areas.json'
+      - '.github/workflows/dispatch-private-sync.yml'
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch private sync
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_REPO_SYNC_TOKEN }}
+          PRIVATE_REPO: ${{ secrets.PRIVATE_REPO }}
+          SHA: ${{ github.sha }}
+          REPO: ${{ github.repository }}
+        run: |
+          curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            "https://api.github.com/repos/${PRIVATE_REPO}/dispatches" \
+            -d "{\"event_type\":\"service-areas-updated\",\"client_payload\":{\"repo\":\"${REPO}\",\"sha\":\"${SHA}\"}}"

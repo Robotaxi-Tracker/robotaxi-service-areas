@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "orlando",
+  "name": "Orlando",
+  "centerLat": 28.457612158143817,
+  "centerLng": -81.4356851577759,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}

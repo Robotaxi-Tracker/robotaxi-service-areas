@@ -1,0 +1,10 @@
+{
+  "provider": "tesla",
+  "slug": "bay_area",
+  "name": "Bay Area",
+  "centerLat": 37.5585,
+  "centerLng": -122.2711,
+  "defaultZoom": 9,
+  "isTestRegion": false,
+  "aliases": []
+}
