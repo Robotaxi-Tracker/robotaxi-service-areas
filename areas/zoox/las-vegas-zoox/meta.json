@@ -2,8 +2,8 @@
   "provider": "zoox",
   "slug": "las-vegas-zoox",
   "name": "Las Vegas",
-  "centerLat": 36.10735,
-  "centerLng": -115.2,
+  "centerLat": 36.10715655,
+  "centerLng": -115.1807454,
   "defaultZoom": 12,
   "isTestRegion": false,
   "aliases": []
