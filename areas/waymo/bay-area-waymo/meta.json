@@ -2,8 +2,8 @@
   "provider": "waymo",
   "slug": "bay-area-waymo",
   "name": "Bay Area",
-  "centerLat": 37.5283,
-  "centerLng": -122.2443,
+  "centerLat": 37.528458400000005,
+  "centerLng": -122.17313709999999,
   "defaultZoom": 9,
   "isTestRegion": false,
   "aliases": []
