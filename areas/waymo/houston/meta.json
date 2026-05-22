@@ -2,8 +2,8 @@
   "provider": "waymo",
   "slug": "houston",
   "name": "Houston",
-  "centerLat": 29.743299,
-  "centerLng": -95.36103615,
+  "centerLat": 29.7443915,
+  "centerLng": -95.3597721,
   "defaultZoom": 11,
   "isTestRegion": false,
   "aliases": []
