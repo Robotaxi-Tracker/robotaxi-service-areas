@@ -1,0 +1,10 @@
+{
+  "provider": "tesla",
+  "slug": "miami",
+  "name": "Miami",
+  "centerLat": 25.77,
+  "centerLng": -80.31,
+  "defaultZoom": 10,
+  "isTestRegion": false,
+  "aliases": []
+}
