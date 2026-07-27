@@ -1,0 +1,10 @@
+{
+  "provider": "tesla",
+  "slug": "tampa",
+  "name": "Tampa",
+  "centerLat": 27.98,
+  "centerLng": -82.48,
+  "defaultZoom": 10,
+  "isTestRegion": false,
+  "aliases": []
+}

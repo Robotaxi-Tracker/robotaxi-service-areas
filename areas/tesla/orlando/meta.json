@@ -1,0 +1,10 @@
+{
+  "provider": "tesla",
+  "slug": "orlando",
+  "name": "Orlando",
+  "centerLat": 28.49,
+  "centerLng": -81.28,
+  "defaultZoom": 10,
+  "isTestRegion": false,
+  "aliases": []
+}
