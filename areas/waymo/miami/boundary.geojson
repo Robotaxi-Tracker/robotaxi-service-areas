@@ -1,12 +1,21 @@
 {
   "type": "Feature",
   "properties": {
-    "name": "Layer 1"
+    "provider": "waymo",
+    "name": "miami_2026_drivable_plus_fwy_no_airport+miami_plus_hard_rock_no_airport_no_doral",
+    "source": "waymo_android_app_get_account_status",
+    "sourceInternalName": "miami_2026_drivable_plus_fwy_no_airport+miami_plus_hard_rock_no_airport_no_doral",
+    "sourcePolygonCount": 1,
+    "serviceRegionId": 11
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
+        [
+          -80.194321,
+          25.752123
+        ],
         [
           -80.186554,
           25.757997
@@ -954,10 +963,6 @@
         [
           -80.194321,
           25.752123
-        ],
-        [
-          -80.186554,
-          25.757997
         ]
       ]
     ]
