@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "denver",
+  "name": "Denver",
+  "centerLat": 39.76,
+  "centerLng": -104.97,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}

@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "tampa",
+  "name": "Tampa",
+  "centerLat": 27.97,
+  "centerLng": -82.48,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}

@@ -1,0 +1,10 @@
+{
+  "provider": "waymo",
+  "slug": "san-diego",
+  "name": "San Diego",
+  "centerLat": 32.75,
+  "centerLng": -117.19,
+  "defaultZoom": 11,
+  "isTestRegion": false,
+  "aliases": []
+}
