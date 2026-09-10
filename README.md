@@ -22,4 +22,6 @@ Current coverage includes:
 
 ## License
 
-MIT
+Copyright (c) 2026 Ethan McKanna. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Attribution must be visible wherever the data is displayed, e.g. "Service areas: [Robotaxi Tracker](https://robotaxitracker.com)".
