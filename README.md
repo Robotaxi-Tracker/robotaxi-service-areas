@@ -17,7 +17,7 @@ Current coverage includes:
 
 ## Commands
 - `npm run build` regenerates `dist/service-areas.json`
-- `npm run check` validates the source tree can be parsed successfully
+- `npm run check` validates every `meta.json` and `boundary.geojson` (required fields, closed rings, valid coordinates, no repeated or self-crossing vertices, map centre within the boundary's bounding box) and checks that `dist/service-areas.json` is up to date
 - `npm run import-boundary --input "Los Angeles boundary.geojson" --output areas/waymo/los-angeles` extracts and imports GeoJSON boundaries and metadata created using [Map Boundary Builder](https://mapboundary.app/)
 
 ## License
